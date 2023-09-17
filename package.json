@@ -6,6 +6,9 @@
     "dev": "bun --hot run src/index.ts"
   },
   "dependencies": {
+    "@elysiajs/html": "^0.6.6",
+    "@kitajs/html": "^2.2.2",
+    "@kitajs/ts-html-plugin": "^1.0.1",
     "elysia": "latest"
   },
   "devDependencies": {
